@@ -1,0 +1,31 @@
+body {
+  background-color: #1d2021;
+  color: #ebdbb2;
+}
+main {
+  text-align: center;
+}
+
+#chart {
+  background-color: #282828;
+  box-shadow: 2px 2px 20px #ebdbb2;
+  border: 1px solid #ebdbb2;
+}
+
+.bar {
+  fill: #928374;
+}
+
+.bar:hover {
+  fill: #cc241d;
+}
+
+.tooltip {
+  color: #282828;
+  font-size: 15px;
+  padding: 5px;
+  background-color: #ebdbb2;
+  opacity: 0.8;
+  border: 1px solid black;
+  border-radius: 10px;
+}
